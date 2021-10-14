@@ -88,7 +88,7 @@ public class locators extends Browser{
 	}
 	
 	public static WebElement selrec() {
-		WebElement srec   = driver.findElement(By.xpath("//input[@id='ohrmList_chkSelectRecord_17']"));
+		WebElement srec   = driver.findElement(By.xpath("//input[@id='ohrmList_chkSelectRecord_54']"));
 		return srec;
 	}//*[@id="ohrmList_chkSelectRecord_39"]
 		
